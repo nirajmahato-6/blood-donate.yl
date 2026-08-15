@@ -14,14 +14,14 @@
     </style>
 </head>
 <body>
-<H2>
+<H3>
   <P>
     <A
       href = "https://maps.app.goo.gl/bTAdp3UgcJqfbNF9A">
-      click here to visit location
+      location OF:-SEAL MARKET
     </A>
   </P>
-</H2>
+</H3>
 
     <header>
         <h1>WELCOME TO CHAPUR SALE CITY</h1>
@@ -30,13 +30,8 @@
     <div class="container">
         <nav class="sidebar">
             <p>Menu Item 1</p>
-            <nav class="sidebar">
-            <p><a href="necklace/index.html">NACKLACE</a></p>
-            <p>Menu Item 2</p>
-            <p><a href="bracelet/index.html">HAND BRACELET</a></p>
-        </nav>
-        <main class="main-content">
-            <h2> DIRECTOR:- RAM NARESH MAHATO </h2>
+             <main class="main-content">
+                       <h2> DIRECTOR:- RAM NARESH MAHATO </h2>
             <p>🙏 आदरणीय ग्राहकज्यू,
 
 Kushwaha General Supplier मा तपाईंलाई हार्दिक स्वागत छ। ❤️
@@ -53,6 +48,14 @@ Kushwaha General Supplier मा तपाईंलाई हार्दिक 
 🙏 तपाईंको विश्वास नै हाम्रो सबैभन्दा ठूलो सम्पत्ति हो।
 ❤️ Kushwaha General Supplier — गुणस्तर, उचित मूल्य र विश्वासको साथ VISIT US~
      AND GET BEST PRODUCT </p>
+            
+            <nav class="sidebar">
+          
+            <p>Menu Item 2</p>
+            <p><a href="bracelet/index.html">HAND BRACELET</a></p>
+            <p><a href="necklace/index.html">NACKLACE</a></p>
+        </nav>
+
         </main>
     </div>
 
