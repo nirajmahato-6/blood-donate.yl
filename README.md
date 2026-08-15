@@ -1,4 +1,4 @@
-                                                                                               ;  DEVLOPER NIRAJ KUSHWAHA
+                                                                                                 DEVLOPER NIRAJ KUSHWAHA
                                                                                                   FROM: RAUTHAT-CHAPUR
 <html lang="en">
 <head>
@@ -25,8 +25,22 @@
             <p>Menu Item 2</p>
         </nav>
         <main class="main-content">
-            <h2>Welcome to the Dashboard</h2>
-            <p>Here is where your main content will go.</p>
+            <h2> DIRECTOR:- RAM NARESH MAHATO </h2>
+            <p>WELCOME TO CHAPUR SEEL CITY 🙏 आदरणीय ग्राहकज्यू,
+
+Kushwaha General Supplier मा तपाईंलाई हार्दिक स्वागत छ। ❤️
+
+हामी हाम्रा ग्राहकहरूलाई गुणस्तरीय सामान, उचित मूल्य र भरपर्दो सेवा प्रदान गर्न सधैं प्रतिबद्ध छौं। 🤝
+
+🛒 दैनिक आवश्यकताका सामानहरू
+💰 सस्तो तथा उचित मूल्यमा
+⭐ गुणस्तरीय उत्पादन
+🤝 विश्वासिलो र भरपर्दो सेवा
+
+हामीसँग जोडिनुहोस् र बजारभन्दा सस्तो मूल्यमा आवश्यक सामानहरू खरिद गर्ने अवसर पाउनुहोस्। 🎉
+
+🙏 तपाईंको विश्वास नै हाम्रो सबैभन्दा ठूलो सम्पत्ति हो।
+❤️ Kushwaha General Supplier — गुणस्तर, उचित मूल्य र विश्वासको साथ VISIT ONE TIMEAND GET BEST PRODUCT </p>
         </main>
     </div>
 
