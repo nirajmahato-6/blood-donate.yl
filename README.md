@@ -18,7 +18,7 @@
   <P>
     <A
       href = "https://maps.app.goo.gl/bTAdp3UgcJqfbNF9A">
-      google location
+      click here to visit location
     </A>
   </P>
 </H2>
@@ -30,7 +30,10 @@
     <div class="container">
         <nav class="sidebar">
             <p>Menu Item 1</p>
+            <nav class="sidebar">
+            <p><a href="necklace/index.html">NACKLACE</a></p>
             <p>Menu Item 2</p>
+            <p><a href="bracelet/index.html">HAND BRACELET</a></p>
         </nav>
         <main class="main-content">
             <h2> DIRECTOR:- RAM NARESH MAHATO </h2>
