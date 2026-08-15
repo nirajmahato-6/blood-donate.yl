@@ -8,7 +8,7 @@
     <style>
         body { font-family: Arial, sans-serif; margin: 0; display: flex; flex-direction: column; height: 100vh; }
         header { background-color: #333; color: #fff; padding: 15px; text-align: center; }
-        .container { display: flex; flex: 1; background-color: #f4f4f4; }
+        .container { display: flex; flex: 1; background-color: #f2f2f2; }
         .sidebar { width: 200px; background-color: #444; color: #fff; padding: 20px; }
         .main-content { flex: 1; padding: 20px; }
     </style>
@@ -16,7 +16,7 @@
 <body>
 
     <header>
-        <h1>Dashboard Header</h1>
+        <h1>WELCOME TO CHAPUR SEEL CITY</h1>
     </header>
 
     <div class="container">
@@ -26,7 +26,7 @@
         </nav>
         <main class="main-content">
             <h2> DIRECTOR:- RAM NARESH MAHATO </h2>
-            <p>WELCOME TO CHAPUR SEEL CITY 🙏 आदरणीय ग्राहकज्यू,
+            <p>🙏 आदरणीय ग्राहकज्यू,
 
 Kushwaha General Supplier मा तपाईंलाई हार्दिक स्वागत छ। ❤️
 
@@ -35,7 +35,7 @@ Kushwaha General Supplier मा तपाईंलाई हार्दिक 
 🛒 दैनिक आवश्यकताका सामानहरू
 💰 सस्तो तथा उचित मूल्यमा
 ⭐ गुणस्तरीय उत्पादन
-🤝 विश्वासिलो र भरपर्दो सेवा
+🤝 विश्वासिलो र भरपर्दो सेवा ,आदि सामानको लागि >
 
 हामीसँग जोडिनुहोस् र बजारभन्दा सस्तो मूल्यमा आवश्यक सामानहरू खरिद गर्ने अवसर पाउनुहोस्। 🎉
 
