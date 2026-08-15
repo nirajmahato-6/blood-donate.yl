@@ -1,5 +1,4 @@
-<img width="500" height="250" alt="ROL" src="https://github.com/user-attachments/assets/0312e569-9059-4b2f-8470-249b9298e459" />
-
+<img width="256" height="256" alt="WhatsApp Image 2026-08-16 at 12 28 57 AM" src="https://github.com/user-attachments/assets/c5040e5a-8238-4364-9c3a-142cb9923f9d" />
 
                                                                                                      DEVLOPER NIRAJ KUSHWAHA                                                                                                               FROM: RAUTHAT-CHAPUR
 <html lang="en">
