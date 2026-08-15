@@ -16,7 +16,7 @@
 <body>
 
     <header>
-        <h1>WELCOME TO CHAPUR SEEL CITY</h1>
+        <h1>WELCOME TO CHAPUR SALE CITY</h1>
     </header>
 
     <div class="container">
@@ -40,7 +40,8 @@ Kushwaha General Supplier मा तपाईंलाई हार्दिक 
 हामीसँग जोडिनुहोस् र बजारभन्दा सस्तो मूल्यमा आवश्यक सामानहरू खरिद गर्ने अवसर पाउनुहोस्। 🎉
 
 🙏 तपाईंको विश्वास नै हाम्रो सबैभन्दा ठूलो सम्पत्ति हो।
-❤️ Kushwaha General Supplier — गुणस्तर, उचित मूल्य र विश्वासको साथ VISIT ONE TIMEAND GET BEST PRODUCT </p>
+❤️ Kushwaha General Supplier — गुणस्तर, उचित मूल्य र विश्वासको साथ VISIT ON https://maps.app.goo.gl/bTAdp3UgcJqfbNF9A
+     AND GET BEST PRODUCT </p>
         </main>
     </div>
 
