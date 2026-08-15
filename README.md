@@ -1,5 +1,7 @@
-<img width="256" height="256" alt="WhatsApp Image 2026-08-16 at 12 28 57 AM" src="https://github.com/user-attachments/assets/c5040e5a-8238-4364-9c3a-142cb9923f9d" />
+<img width="201" height="20" alt="WhatsApp Image 2026-08-16 at 12 28 57 AM" src="https://github.com/user-attachments/assets/c5040e5a-8238-4364-9c3a-142cb9923f9d" />
 
+                      
+                                                                                                     
                                                                                                      DEVLOPER NIRAJ KUSHWAHA                                                                                                               FROM: RAUTHAT-CHAPUR
 <html lang="en">
 <head>
@@ -7,6 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Dashboard</title>
     <style>
+      
         body { font-family: Arial, sans-serif; margin: 0; display: flex; flex-direction: column; height: 100vh; }
         header { background-color: #333; color: #fff; padding: 15px; text-align: center; }
         .container { display: flex; flex: 1; background-color: #f2f2f2; }
@@ -24,7 +27,7 @@
   </P>
 </H3>
 <h6>SHOP</h6>
-  <img width="1600" height="758" alt="GIT" src="https://github.com/user-attachments/assets/37897581-60b3-4838-9727-a788a9e48840" />
+  <img width="1550" height="500" alt="GIT" src="https://github.com/user-attachments/assets/37897581-60b3-4838-9727-a788a9e48840" />
     <header>
         <h1>WELCOME TO CHAPUR SALE CITY</h1>
     </header>
