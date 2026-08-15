@@ -1,3 +1,4 @@
+
                                                                                                  DEVLOPER NIRAJ KUSHWAHA
                                                                                                   FROM: RAUTHAT-CHAPUR
 <html lang="en">
@@ -22,8 +23,8 @@
     </A>
   </P>
 </H3>
-<h6>picture</h6>
-<img src="image.jpeg"alt="sope picture" wide="300">
+<h6>SHOP</h6>
+<img width="1600" height="800" alt="image" src="https://github.com/user-attachments/assets/9b75fe83-75aa-4eab-8d62-356562bbd8eb" />
     <header>
         <h1>WELCOME TO CHAPUR SALE CITY</h1>
     </header>
