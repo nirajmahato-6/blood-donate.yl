@@ -22,7 +22,8 @@
     </A>
   </P>
 </H3>
-
+<h6>picture</h6>
+<img src="image.jpeg"alt="sope picture" wide="300">
     <header>
         <h1>WELCOME TO CHAPUR SALE CITY</h1>
     </header>
