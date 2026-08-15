@@ -1,6 +1,7 @@
+<img width="327" height="337" alt="ROL" src="https://github.com/user-attachments/assets/0312e569-9059-4b2f-8470-249b9298e459" />
 
-                                                                                                 DEVLOPER NIRAJ KUSHWAHA
-                                                                                                  FROM: RAUTHAT-CHAPUR
+
+                                                                                                     DEVLOPER NIRAJ KUSHWAHA                                                                                                               FROM: RAUTHAT-CHAPUR
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -24,7 +25,7 @@
   </P>
 </H3>
 <h6>SHOP</h6>
-<img width="1600" height="400" alt="image" src="https://github.com/user-attachments/assets/9b75fe83-75aa-4eab-8d62-356562bbd8eb" />
+  <img width="1600" height="758" alt="GIT" src="https://github.com/user-attachments/assets/37897581-60b3-4838-9727-a788a9e48840" />
     <header>
         <h1>WELCOME TO CHAPUR SALE CITY</h1>
     </header>
