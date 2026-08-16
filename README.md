@@ -27,7 +27,7 @@
   </P>
 </H3>
 <h6>SHOP</h6>
-  <img width="1550" height="500" alt="GIT" src="https://github.com/user-attachments/assets/37897581-60b3-4838-9727-a788a9e48840" />
+  <img width="1550" height="500" alt="GIT" <img width="1600" height="756" alt="pashal" src="https://github.com/user-attachments/assets/037eb23b-5fa5-4d3e-a586-2a6edc57c902" />
     <header>
         <h1>WELCOME TO CHAPUR SALE CITY</h1>
     </header>
